@@ -3,8 +3,7 @@
     {
       "id": 1,
       "xml": "<Status>RanToCompletion</Status>"
-    }
-,
+    },
     {
       "id": 2,
       "xml": "<Status>Faulted</Status>"
