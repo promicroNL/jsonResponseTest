@@ -5,7 +5,10 @@
       "xml": "<Status>RanToCompletion</Status>"
     }
   ],
-  "profile": {
-    "name": "chaosonline"
-  }
+[
+    {
+      "id": 2,
+      "xml": "<Status>Faulted</Status>"
+    }
+  ]
 }
