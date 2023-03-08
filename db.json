@@ -2,7 +2,7 @@
   "response": [
     {
       "id": 1,
-      "xml": "<Status>RanToCompletion</Status>"
+      "xml": "<Status>Faulted</Status>"
     }
   ]
 }
